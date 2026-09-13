@@ -1,0 +1,8 @@
+Origin: ByeChargingText
+Label: ByeChargingText
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64
+Components: main
+Description: Repo de Sileo para ByeAnnoyingChargingText
