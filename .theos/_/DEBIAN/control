@@ -1,0 +1,11 @@
+Package: com.idktsu2.byeannoyingchargintext
+Name: ByeAnnoyingChargingText
+Description: say bye to your stupid annoying charging text on lockscreen
+Maintainer: idktsu2
+Author: idktsu2
+Section: Tweaks
+Depends: firmware (>= 15.0), mobilesubstrate
+Homepage: https://github.com/idktsu2/byeannoyingchargintext
+Architecture: iphoneos-arm64
+Version: 1.0.0-3+debug
+Installed-Size: 188
